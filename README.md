@@ -1,4 +1,6 @@
 # my-data-pipeline
+## This project is used for building an data pipeline which can transform csv file into json file (from aws S3 to dynamoDB).
+
 ### Python
 
 ```bash
